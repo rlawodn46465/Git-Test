@@ -11,3 +11,7 @@ git commit	[추가한 파일을 저장한다]
 	-m ""	[추가한 파일에 ""안의 메모를 붙인다]
 git push		[저장한 파일을 github에 올린다]
 git status		[깃 내의 변화를 파악한다]
+git log		[깃의 커밋 로그를 확인]
+git reset (코드) --hard	[코드 이전의 로그를 지우고 이동]
+git revert (코드)	[코드로 이동하되 이동한 로그를 추가한다]
+
